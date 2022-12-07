@@ -1,0 +1,30 @@
+{
+  "name": "exno-2",
+  "version": "1.0.0",
+  "description": "a md bot",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intervinn/exno-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intervinn/exno-2/issues"
+  },
+  "homepage": "https://github.com/intervinn/exno-2#readme",
+  "devDependencies": {
+    "@types/glob": "^8.0.0",
+    "@types/node": "^18.11.11",
+    "glob": "^8.0.3",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
